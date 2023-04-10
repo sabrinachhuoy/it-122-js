@@ -1,4 +1,4 @@
-let firstName = "Sabrina";
+let firstName = "Sabrina"
 let lastName = "Chhuoy";
 let yearsOfStudy = 1;
 let  goal = 'become a developer';
